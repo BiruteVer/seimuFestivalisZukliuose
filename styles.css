@@ -14,7 +14,7 @@ img {
 
 p {
     color:brown; 
-    font-size: 16px; 
+    font-size: 1.2em; 
     max-width:600px;
     margin: 10px auto;
     padding: 10px;
@@ -24,8 +24,9 @@ p {
 .info {
     border: 1px solid black;
     border-radius: 5px; 
-    width:150px; 
+    width:200px; 
     font-weight: bold;
+    text-align: center;
     }
 
 .info:hover {
